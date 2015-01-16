@@ -50,15 +50,15 @@ type User struct {
 
 ## FAQ
 
-** Is this program any good? **
+**Is this program any good?**
 
 It avoided me the hassle of writing a bunch of json structs by hand. It won't probably work for 100% of your use cases, but it can save you some time.
 
-** Did you spend more time working on this than it would have taken you to write those structs by hand? **
+**Did you spend more time working on this than it would have taken you to write those structs by hand?**
 
 Definitely.
 
-** Did you learn something new about go by doing this rather than writing a bunch of boilerplate code? **
+**Did you learn something new about go by doing this rather than writing a bunch of boilerplate code?**
 
 Definitely.
 
