@@ -29,7 +29,7 @@ $ json_generate filename.go
 Or add the `generate` header to the source file:
 
 ```go
-// go:genearate json_generate
+// go:generate json_generate
 ```
 
 This will generate a `filename_json.go` file with the go struct parsed. Something like:
